@@ -2,4 +2,4 @@
 
 ## Table of Contents
  - __Lab 1:__ Introduction in dsp using Matlab.
- - __Lab 2:__ Perceptual Audio Coding.
+ - __Lab 2:__ Audio compression based on the psychoacoustic model (Perceptual Audio Coding).
